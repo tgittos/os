@@ -1,0 +1,9 @@
+http://mikeos.berlios.de/write-your-own-os.html
+
+http://www.osdever.net/bkerndev/
+http://en.skelix.org/skelixos/
+http://www.jamesmolloy.co.uk/tutorial_html/index.html
+http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html
+http://www.stanford.edu/class/cs140/projects/pintos/pintos.html
+
+Requires build-essential, nasm and qemu
